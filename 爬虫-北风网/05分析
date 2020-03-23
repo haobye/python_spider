@@ -1,0 +1,80 @@
+一，音乐链接：
+    http://122.228.252.150/amobile.music.tc.qq.com/C400000SvZfc2CF9oe.m4a?
+    vkey=84A3508BDFD91CFF97D0F022B6FBA507D174215F3DF37CBC7D538461FABCB42173A27F8ADC47969BB90CF91A338764122283785371E8C1AA&
+    需要：
+        C400 + 000SvZfc2CF9oe
+        vkey
+
+
+二，音乐链接参数：
+    https://c.y.qq.com/v8/fcg-bin/fcg_v8_album_info_cp.fcg?
+    albummid=000BtDHq1wiAga&
+    需要：
+        000BtDHq1wiAga
+        来源：https://y.qq.com/n/yqq/playsquare/5296447782.html#stat=y_new.playlist.pic_click
+
+
+三，拼接歌单链接：
+    （https://y.qq.com/n/yqq/playsquare/5296447782.html#stat=y_new.playlist.pic_click）
+
+
+四，找歌单参数：
+
+    错误：https://c.y.qq.com/splcloud/fcgi-bin/fcg_get_diss_tag_conf.fcg?g_tk=408595471&loginUin=2432387295&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq.json&needNewCode=0
+
+    正确（重新找）https://c.y.qq.com/splcloud/fcgi-bin/fcg_get_diss_by_tag.fcg?picmid=1&rnd=0.5763118180791627&g_tk=1806862358&jsonpCallback=a&loginUin=1009137312&hostUin=0&format=jsonp&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0&categoryId=10000000&sortId=5&sin=0&ein=29
+
+
+
+
+
+
+
+
+
+
+一，
+    正在播放链接（Media）：
+        http://isure.stream.qqmusic.qq.com/C400004aXYBx3yd747.m4a?
+        guid=3499577668&
+        vkey=0427B550171E9F4D9EFCD916750BAEC34263C0F9673215B41B084A4862F1FF4DC62536E1B93CE80B9B94F2824A434DABBFBB6D2AA1154F9E&
+        uin=2271&
+        fromtag=66
+        需要得到：
+            音乐ID    004aXYBx3yd747
+            秘钥      vkey
+
+二，
+    正在播放链接（XHR无小太阳前缀）：
+        可找到以上所需连个参数
+        同个里的链接：
+            https://u.y.qq.com/cgi-bin/musicu.fcg?
+            -=getplaysongvkey09579800714613573&
+            g_tk=408595471&
+            loginUin=2432387295&
+            hostUin=0&
+            format=json&
+            inCharset=utf8&
+            outCharset=utf-8&
+            notice=0&
+            platform=yqq.json&
+            needNewCode=0&
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
